@@ -105,12 +105,12 @@ const USER_CONFIG = {
       // 如果courseSchedule是一个对象（如下面所示）
       courseSchedule: {
         // 单双周的基准
-        benchmark: {
+        /*benchmark: {
           // 这里设置一个日期，用来作为判断课表是否单双周的依据
           date: '2022-09-23',
           // 该日期是否为单周
           isOdd: true
-        },
+        },*/
         // 课表
         courses: [
             // 例子，周一的课表
