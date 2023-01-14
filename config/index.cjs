@@ -69,9 +69,9 @@ const USER_CONFIG = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: '5Y-foaDbRT0qFiV0sM9eUicRHokGBNs9zx5j8gnjHvs',
       // 所在省份
-      province: '浙江',
+      province: '湖北',
       // 所在城市
-      city: '杭州',
+      city: '荆州',
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '09-09',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
